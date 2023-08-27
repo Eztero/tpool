@@ -1,7 +1,7 @@
 {
  "name": "TricahuePool",
  "description": "Pool located in Chile, Veteran stakepool, present from the ITN",
- "ticker": "TCHP",
+ "ticker": "TPOOL",
  "homepage": "https://eztero.github.io/TricahuePool/index_en.html",
  "extended": "https://raw.githubusercontent.com/Eztero/tchp_metadata/main/extended-metadata.json"
 }
