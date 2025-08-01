@@ -1,4 +1,5 @@
-{
+{ 
+  "verification":"14fbab09a73a0cc66f",
   "info": {
     "url_png_icon_64x64": "https://eztero.github.io/TricahuePool/images/tchp_adapools.png",
     "url_png_logo": "",
@@ -22,7 +23,7 @@
     },
     "about": {
       "me": "Hi, I'm Eztero, I'm from Chile. I am a committed and experienced operator, I started managing the pool from the beginning of the ITN (Incentived Testnet Network). The name of my pool Tricahue refers to a species of parrot endemic to my country that is in danger of extinction",
-      "server": "My Relay server is located in Chile and has the following characteristics: 16 Cores ARM, 64GB RAM, 1T HDD, 600 Mbps.",
+      "server": "My server is a Honeycomb LX2 with ARM architecture (low power). It has 64GB of ECC RAM and 2TB of SSD storage in RAID 0 to improve latency. The RAID card has cachevault enabled, a system to prevent data loss during power outages. The server also has a UPS to ensure its operation in the event of power outages or surges and 300 Mbps dedicated up/down managed by a firewall.",
       "company": ""
     },
     "rss": ""
